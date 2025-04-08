@@ -163,7 +163,7 @@ This **pie chart** displays the distribution of chocolate sales revenue across s
 - Price differences across products or promotions/discounts affecting the revenue independently of volume
 ---
 ---
-## 📌 Insights & Recommendations fro this project
+## 📌 Insights & Recommendations for Business
 
 - Focus on promoting **top-selling products** like 50% Dark Bites and 85% Dark Bars.
 - Boost sales efforts in **India** and **Canada** to match or exceed Australia's performance.
