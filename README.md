@@ -23,6 +23,7 @@ It captures transaction-level data such as who sold what, where, when, and how m
 ---
 📊 Monthly Sales Summary – Analysis from Chart
 - This line chart titled "Monthly Sales Summary" displays the total chocolate sales amount per month from January to August.
+- 
 ![mss](mss.png)
 ---
 # -🔍 Key Observations:
